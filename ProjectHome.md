@@ -1,0 +1,1 @@
+A simple library for communicating with pandorabot (hosted AIML bot) in Java.  To use this library, create a bot at http://pandorabots.com/ and note its Bot ID.  Use this to instantiate a Pandorabot instance, then ask it questions and receive responses.
